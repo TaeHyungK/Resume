@@ -111,7 +111,7 @@
 
 ### 프로젝트
 
-##### QnD
+#### QnD
 
 설문을 직접 등록하고 참여할 수 있는 설문조사 모바일 어플리케이션
 
@@ -129,9 +129,9 @@
   - 프로필 사진 변경 기능 구현
   - Gson Library 이용 네트워크 통신부 구현
   - 잠금화면 통신부 구현
-- [GitHub Repository](https://https://github.com/TaeHyungK/QnD)
+- [GitHub Repository](https://github.com/TaeHyungK/QnD)
 
-##### 투트
+#### 투트
 
 장애인들도 비장애인들처럼 가고싶은 곳을 자유롭게 여행할 수 있도록<br>'장애인 맞춤형 여행지'와 '여행 코스'를 제공해주는 모바일 어플리케이션
 
@@ -151,9 +151,9 @@
   - 자동 로그인 구현
   - 프로필 사진 변경 기능 구현
   - Gson Library 이용 네트워크 통신부 구현
-- [GitHub Repository](https://github.com/farmer9716/nuribom)
+- [GitHub Repository](https://github.com/famer9716/nuribom)
 
-##### 야, 타!
+#### 야, 타!
 
 출발지, 목적지 검색으로 차주, 드라이버를 찾을 수 있고 실시간으로 매칭해주는 카풀 모바일 어플리케이션
 
