@@ -86,7 +86,8 @@
   - SKB 신규 셋톱박스(신규 MW) UI 개발
     -  2019.7 - 2019.12
     - 신규 플레이어(Exo player 기반) 기능 중 다국어 자막 노출 관련 모듈 개발
-  - 3rd party app(살아있는 동화) one branch화 2019.7 - 2019.8
+  - 3rd party app(살아있는 동화) one branch화 
+    - 2019.7 - 2019.8
     - build flavor를 이용해 각 셋톱박스 모델별 파편화되어 있는 브랜치를 one branch화
   - SKB TV app 3rd party app(살아있는 동화) 개발
     - 2018.7 - 2019.4
