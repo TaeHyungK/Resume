@@ -83,25 +83,31 @@
 
 - 직급/직무 : 사원 / Android 개발
 - 주요 프로젝트
+  - SKB 신규 3rd party TV앱 개발
+    - 2020.03 ~ 2020.06
+    - 키즈용 앱 개발
+      - 메인 홈화면 개발
+      - 3rd party 앱 다운로드 런처앱 통신 규격 정합
+    - 런처 앱 규격 적용 등 키즈 앱 개발 대응
   - SKB 신규 셋톱박스(신규 MW) UI 개발
-    -  2019.7 - 2019.12
+    - 2019.7 - 2020.01
     - 신규 플레이어(Exo player 기반) 기능 중 다국어 자막 노출 관련 모듈 개발
   - 3rd party app(살아있는 동화) one branch화 
-    - 2019.7 - 2019.8
+    - 2019.7 - 2019.08
     - build flavor를 이용해 각 셋톱박스 모델별 파편화되어 있는 브랜치를 one branch화
   - SKB TV app 3rd party app(살아있는 동화) 개발
-    - 2018.7 - 2019.4
-    - IPTV 셋톱박스 3rd party app 패치 개발 및 유지보수 -UI개발,페이징처리등패치개발,이벤트배너노출등
-  - SKB IPTV 셋톱박스 UI 개발
+    - 2018.7 - 2019.04
+    - IPTV 셋톱박스 3rd party app 패치 개발 및 유지보수 - UI개발,페이징처리등패치개발,이벤트배너노출등
+  - SKB IPTV 셋톱박스 런처 앱 UI 개발
     - 2018.3 - 2019.12
     - IPTV셋톱박스 mass앱 UI 패치 개발 및 유지보수
       - UI패치개발,자막파싱모듈개발,개인화키모듈개발,TV-모바일간페어링모듈개발,VAS앱실행처리등
     - 안드로이드TV및신규셋톱박스패치개발및유지보수
       - LeanBack 앱 리스트 관리 및 web 정합, LeanBack 앱 리스트 배너 이미지 File 저장/제거 처리
-  - SKB 신규 셋톱박스(Android P) 포팅 및 개발
-    - 2019.2 - 2019.4
+  - SKB 신규 셋톱박스(Android P) 런처 앱 포팅 및 UI 개발
+    - 2019.2 - 2019.04
     - Mass앱to신규셋톱박스포팅개발 -UI개발,M/W정합등
-  - SKB 안드로이드 TV(Android O) 포팅 및 개발
+  - SKB 안드로이드 TV(Android O) 포팅 및 UI 개발
     - 2018.6 - 2018.11
     - Mass앱to신규셋톱박스포팅업무
       - UI 개발, Google requirements에 따른 Launcher app 노출 및 실행 처리, M/W 정합 등
