@@ -79,6 +79,20 @@
 
 ### 경력
 
+##### 하이퍼커넥트
+- 기간 : 2020.07.20 ~ 진행중
+- 직급/직무 : 인턴 / Azar - Android Software Developer
+- 주요 프로젝트
+  - 인턴십 과제 진행
+    - 사용 기술 스택
+      - Kotlin
+      - RxJava2
+      - Dagger with Hilt
+      - AAC (LiveData + ViewModel + DataBinding)
+      - MVVM 패턴 + Repository 패턴
+      - git flow
+      - Firebase - firestore
+
 ##### (주) 디지캡
 - 기간 : 2018.03.19 ~ 2020.07.17
 - 직급/직무 : 사원 / Android 개발
